@@ -1,0 +1,24 @@
+{
+  "name": "promise-walker",
+  "version": "0.1.0",
+  "description": "Promise-based error-tolerant directory walker",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "filewalker",
+    "fs",
+    "promise"
+  ],
+  "author": "YurySolovyov",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-spec-reporter": "^2.5.0",
+    "mock-require": "^1.3.0"
+  }
+}
