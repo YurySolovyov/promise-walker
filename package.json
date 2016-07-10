@@ -13,6 +13,10 @@
   ],
   "author": "YurySolovyov",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YurySolovyov/promise-walker"
+  },
   "dependencies": {
     "bluebird": "^3.4.1"
   },
