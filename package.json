@@ -18,7 +18,7 @@
     "url": "https://github.com/YurySolovyov/promise-walker"
   },
   "dependencies": {
-    "bluebird": "^3.4.1"
+    "bluebird": "^3.4.6"
   },
   "devDependencies": {
     "jasmine": "^2.4.1",
