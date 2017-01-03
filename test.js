@@ -2,7 +2,7 @@ var Jasmine = require('jasmine');
 var jasmine = new Jasmine();
 var SpecReporter = require('jasmine-spec-reporter').SpecReporter;
 
-var reporter = new Reporter({
+var reporter = new SpecReporter({
     displaySpecDuration: true,
 });
 
